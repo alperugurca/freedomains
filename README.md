@@ -2,9 +2,14 @@
 
 Free subdomains and website addresses. Free plans may have usage limits.
 
-“Multiple options” means additional free domain suffixes or address formats; availability may depend on the region or editor.
-
 Last reviewed: October 12, 2026.
+
+## Contents
+
+- [Free addresses included with hosting](#free-addresses-included-with-hosting)
+- [Free subdomains](#free-subdomains)
+- [Free dynamic DNS](#free-dynamic-dns)
+- [Examples I've used](#examples-ive-used)
 
 ## Free addresses included with hosting
 

@@ -13,7 +13,7 @@ main { max-width: 1040px; margin: 0 auto; padding: 48px 24px 64px; }
 nav { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 16px; padding-bottom: 24px; border-bottom: 1px solid var(--line); }
 nav strong { letter-spacing: -.03em; font-size: 20px; }
 h1 { margin: 32px 0 12px; font-size: clamp(28px, 5vw, 44px); line-height: 1.2; letter-spacing: -.04em; }
-h2 { margin: 40px 0 16px; font-size: 22px; line-height: 1.3; }
+h2 { scroll-margin-top: 24px; margin: 40px 0 16px; font-size: 22px; line-height: 1.3; }
 p { margin: 8px 0; color: var(--muted); }
 a { color: var(--link); text-underline-offset: 3px; }
 a:hover { text-decoration-thickness: 2px; }
@@ -33,9 +33,15 @@ code { font: .88em ui-monospace, monospace; overflow-wrap: anywhere; }
 <nav aria-label="Site"><strong>freedomains</strong><a href="README.md">Read the Markdown list</a></nav>
 <h1>Free Domains &amp; Subdomains</h1>
 <p>Free subdomains and website addresses. Free plans may have usage limits.</p>
-<p>“Multiple options” means additional free domain suffixes or address formats; availability may depend on the region or editor.</p>
 <p>Last reviewed: October 12, 2026.</p>
-<h2>Free addresses included with hosting</h2>
+<h2 id="contents">Contents</h2>
+<ul>
+<li><a href="#free-addresses-included-with-hosting">Free addresses included with hosting</a></li>
+<li><a href="#free-subdomains">Free subdomains</a></li>
+<li><a href="#free-dynamic-dns">Free dynamic DNS</a></li>
+<li><a href="#examples-ive-used">Examples I&#x27;ve used</a></li>
+</ul>
+<h2 id="free-addresses-included-with-hosting">Free addresses included with hosting</h2>
 <div class="table-wrap"><table>
 <thead><tr><th scope="col">Service</th><th scope="col">Address</th></tr></thead><tbody>
 <tr><td><a href="https://aeonfree.com/">AeonFree</a></td><td><code>name.iceiy.com</code> (multiple options)</td></tr>
@@ -77,7 +83,7 @@ code { font: .88em ui-monospace, monospace; overflow-wrap: anywhere; }
 <tr><td><a href="https://support.wix.com/en/article/keeping-the-free-wix-url-4956247">Wix</a></td><td><code>username.wixsite.com/sitename</code> (multiple options)</td></tr>
 <tr><td><a href="https://wordpress.com/free/">WordPress.com</a></td><td><code>name.wordpress.com</code></td></tr>
 </tbody></table></div>
-<h2>Free subdomains</h2>
+<h2 id="free-subdomains">Free subdomains</h2>
 <div class="table-wrap"><table>
 <thead><tr><th scope="col">Service</th><th scope="col">Address</th></tr></thead><tbody>
 <tr><td><a href="https://domain.digitalplat.org/">DigitalPlat</a></td><td><code>name.dpdns.org</code> (multiple options)</td></tr>
@@ -87,7 +93,7 @@ code { font: .88em ui-monospace, monospace; overflow-wrap: anywhere; }
 <tr><td><a href="https://github.com/js-org/js.org">JS.ORG</a></td><td><code>name.js.org</code></td></tr>
 <tr><td><a href="https://github.com/thedev-id/thedev.id">thedev.id</a></td><td><code>name.thedev.id</code></td></tr>
 </tbody></table></div>
-<h2>Free dynamic DNS</h2>
+<h2 id="free-dynamic-dns">Free dynamic DNS</h2>
 <div class="table-wrap"><table>
 <thead><tr><th scope="col">Service</th><th scope="col">Address</th></tr></thead><tbody>
 <tr><td><a href="https://www.duckdns.org/faqs.jsp">DuckDNS</a></td><td><code>name.duckdns.org</code></td></tr>
@@ -95,7 +101,7 @@ code { font: .88em ui-monospace, monospace; overflow-wrap: anywhere; }
 <tr><td><a href="https://freedns.afraid.org/">FreeDNS</a></td><td>Multiple shared domain options</td></tr>
 <tr><td><a href="https://www.noip.com/free">No-IP</a></td><td><code>name.ddns.net</code> (multiple options)</td></tr>
 </tbody></table></div>
-<h2>Examples I&#x27;ve used</h2>
+<h2 id="examples-ive-used">Examples I&#x27;ve used</h2>
 <div class="table-wrap"><table>
 <thead><tr><th scope="col">Service</th><th scope="col">Website</th></tr></thead><tbody>
 <tr><td>AeonFree (1)</td><td><a href="https://alperugurcan.hstn.me/">alperugurcan.hstn.me</a></td></tr>
