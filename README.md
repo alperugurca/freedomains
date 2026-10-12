@@ -95,8 +95,9 @@ Last reviewed: October 12, 2026.
 | HelioHost | [alperugurcan4.helioho.st](https://alperugurcan4.helioho.st/) |
 | HelioHost | [alperugurcan5.helioho.st](https://alperugurcan5.helioho.st/) |
 | Hugging Face Static Spaces | [alperugurcan-infinitecanvas.static.hf.space/index.html](https://alperugurcan-infinitecanvas.static.hf.space/index.html) |
+| InfinityFree | [alperugurcan.freedev.app](https://alperugurcan.freedev.app/) — Infinitecanvas |
 | Linktree | [linktr.ee/alperugurcan](https://linktr.ee/alperugurcan) |
-| mmm.page | [mmm.page/alperugurcan](https://mmm.page/alperugurcan) |
+| mmm.page | [alperugurcan.mmm.page](https://alperugurcan.mmm.page/) |
 | Neocities | [alperugurcan.neocities.org](https://alperugurcan.neocities.org) |
 | Netlify | [coffeeworkshop.netlify.app](https://coffeeworkshop.netlify.app) |
 | PythonAnywhere | [alperugurcan.pythonanywhere.com](https://alperugurcan.pythonanywhere.com) |
