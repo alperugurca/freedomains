@@ -82,6 +82,7 @@ Last reviewed: October 12, 2026.
 | Canva | [alperugurcan.my.canva.site](https://alperugurcan.my.canva.site/) |
 | Carrd | [alperugurcan.carrd.co](https://alperugurcan.carrd.co) |
 | Cloudflare Pages | [alperugurcan.pages.dev](https://alperugurcan.pages.dev) |
+| Codeberg Pages | [alperugurcan.codeberg.page](https://alperugurcan.codeberg.page/) |
 | Firebase Hosting | [alper-ugurcan.web.app](https://alper-ugurcan.web.app) |
 | GitLab Pages | [alperugurcan.gitlab.io/alperugurcan](https://alperugurcan.gitlab.io/alperugurcan) |
 | Google Sites | [sites.google.com/view/theyarethesamepicture](https://sites.google.com/view/theyarethesamepicture) |
