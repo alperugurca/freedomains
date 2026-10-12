@@ -26,6 +26,7 @@ Last reviewed: October 12, 2026.
 | [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages) | `username.github.io` |
 | [GitLab Pages](https://docs.gitlab.com/user/project/pages/getting_started_part_one/) | `username.gitlab.io` |
 | [Google Sites](https://support.google.com/sites/answer/6372880?hl=en) | `sites.google.com/view/name` |
+| [Gravatar](https://gravatar.com/) | `gravatar.com/name` |
 | [guns.lol](https://guns.lol/pricing) | `guns.lol/name` |
 | [HelioHost](https://heliohost.org/) | `name.helioho.st` (multiple options) |
 | [Hugging Face Static Spaces](https://huggingface.co/docs/hub/en/spaces-overview) | `space-subdomain.hf.space` |
@@ -88,6 +89,7 @@ Last reviewed: October 12, 2026.
 | GitHub Pages | [alperugurca.github.io](https://alperugurca.github.io/) |
 | GitLab Pages | [alperugurcan.gitlab.io/alperugurcan](https://alperugurcan.gitlab.io/alperugurcan) |
 | Google Sites | [sites.google.com/view/theyarethesamepicture](https://sites.google.com/view/theyarethesamepicture) |
+| Gravatar | [gravatar.com/alperugurcan](https://gravatar.com/alperugurcan) |
 | guns.lol | [guns.lol/alperugurcan](https://guns.lol/alperugurcan) |
 | HelioHost (1) | [alperugurcan.helioho.st](https://alperugurcan.helioho.st/) |
 | HelioHost (2) | [alperugurcan2.helioho.st](https://alperugurcan2.helioho.st/) |
