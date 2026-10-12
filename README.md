@@ -86,7 +86,8 @@ Last reviewed: October 12, 2026.
 | Codeberg Pages | [alperugurcan.codeberg.page](https://alperugurcan.codeberg.page/) |
 | Deno Deploy | [alperugurcan.alperugurcan.deno.net](https://alperugurcan.alperugurcan.deno.net/) |
 | Firebase Hosting | [alper-ugurcan.web.app](https://alper-ugurcan.web.app) |
-| GitHub Pages | [alperugurca.github.io](https://alperugurca.github.io/) |
+| GitHub Pages (1) | [alperugurca.github.io](https://alperugurca.github.io/) |
+| GitHub Pages (2) | [alperugurca.github.io/freedomains](https://alperugurca.github.io/freedomains/) |
 | GitLab Pages | [alperugurcan.gitlab.io/alperugurcan](https://alperugurcan.gitlab.io/alperugurcan) |
 | Google Sites | [sites.google.com/view/theyarethesamepicture](https://sites.google.com/view/theyarethesamepicture) |
 | Gravatar | [gravatar.com/alperugurcan](https://gravatar.com/alperugurcan) |
