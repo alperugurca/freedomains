@@ -77,6 +77,7 @@ Last reviewed: October 12, 2026.
 | AeonFree | [alperugurcan.zya.me](https://alperugurcan.zya.me) |
 | alwaysdata | [alperugurcan.alwaysdata.net](https://alperugurcan.alwaysdata.net/) |
 | Bear Blog | [alperugurcan.bearblog.dev](https://alperugurcan.bearblog.dev/) |
+| Blogger | [alperugurcan.blogspot.com](https://alperugurcan.blogspot.com/) |
 | Byet Host | [alperugurcan.byethost5.com](https://alperugurcan.byethost5.com/) |
 | Canva | [alperugurcan.my.canva.site](https://alperugurcan.my.canva.site/) |
 | Carrd | [alperugurcan.carrd.co](https://alperugurcan.carrd.co) |
