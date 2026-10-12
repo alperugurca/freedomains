@@ -112,3 +112,4 @@ Last reviewed: October 12, 2026.
 | Versoly | [alperugurcan.versoly.page](https://alperugurcan.versoly.page/) |
 | Webflow | [alperugurcan.webflow.io](https://alperugurcan.webflow.io/) |
 | Wix | [alperugurcan.wixsite.com/alperugurcan](https://alperugurcan.wixsite.com/alperugurcan) |
+| WordPress.com | [alperugurcan.wordpress.com](https://alperugurcan.wordpress.com/) |
