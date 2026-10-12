@@ -31,7 +31,7 @@ Last reviewed: October 12, 2026.
 | [Hugging Face Static Spaces](https://huggingface.co/docs/hub/en/spaces-overview) | `space-subdomain.hf.space` |
 | [InfinityFree](https://www.infinityfree.com/) | `name.infinityfree.io` (multiple options) |
 | [Linktree](https://linktr.ee/s/pricing) | `linktr.ee/name` |
-| [mmm.page](https://mmm.page/) | `mmm.page/name` |
+| [mmm.page](https://mmm.page/) | `name.mmm.page` |
 | [Neocities](https://neocities.org/) | `name.neocities.org` |
 | [Netlify](https://docs.netlify.com/manage/domains/domains-fundamentals/understand-domains/) | `project.netlify.app` |
 | [Notion Sites](https://www.notion.com/help/manage-your-notion-sites) | `name.notion.site/page-id` |
