@@ -72,9 +72,9 @@ Last reviewed: October 12, 2026.
 
 | Service | Website |
 | --- | --- |
-| AeonFree 1 | [alperugurcan.hstn.me](https://alperugurcan.hstn.me/) |
-| AeonFree 2 | [alperugurcan.iceiy.com](https://alperugurcan.iceiy.com) |
-| AeonFree 3 | [alperugurcan.zya.me](https://alperugurcan.zya.me) |
+| AeonFree (1) | [alperugurcan.hstn.me](https://alperugurcan.hstn.me/) |
+| AeonFree (2) | [alperugurcan.iceiy.com](https://alperugurcan.iceiy.com) |
+| AeonFree (3) | [alperugurcan.zya.me](https://alperugurcan.zya.me) |
 | alwaysdata | [alperugurcan.alwaysdata.net](https://alperugurcan.alwaysdata.net/) |
 | Bear Blog | [alperugurcan.bearblog.dev](https://alperugurcan.bearblog.dev/) |
 | Blogger | [alperugurcan.blogspot.com](https://alperugurcan.blogspot.com/) |
@@ -89,11 +89,11 @@ Last reviewed: October 12, 2026.
 | GitLab Pages | [alperugurcan.gitlab.io/alperugurcan](https://alperugurcan.gitlab.io/alperugurcan) |
 | Google Sites | [sites.google.com/view/theyarethesamepicture](https://sites.google.com/view/theyarethesamepicture) |
 | guns.lol | [guns.lol/alperugurcan](https://guns.lol/alperugurcan) |
-| HelioHost 1 | [alperugurcan.helioho.st](https://alperugurcan.helioho.st/) |
-| HelioHost 2 | [alperugurcan2.helioho.st](https://alperugurcan2.helioho.st/) |
-| HelioHost 3 | [alperugurcan3.helioho.st](https://alperugurcan3.helioho.st/) |
-| HelioHost 4 | [alperugurcan4.helioho.st](https://alperugurcan4.helioho.st/) |
-| HelioHost 5 | [alperugurcan5.helioho.st](https://alperugurcan5.helioho.st/) |
+| HelioHost (1) | [alperugurcan.helioho.st](https://alperugurcan.helioho.st/) |
+| HelioHost (2) | [alperugurcan2.helioho.st](https://alperugurcan2.helioho.st/) |
+| HelioHost (3) | [alperugurcan3.helioho.st](https://alperugurcan3.helioho.st/) |
+| HelioHost (4) | [alperugurcan4.helioho.st](https://alperugurcan4.helioho.st/) |
+| HelioHost (5) | [alperugurcan5.helioho.st](https://alperugurcan5.helioho.st/) |
 | Hugging Face Static Spaces | [alperugurcan-infinitecanvas.static.hf.space/index.html](https://alperugurcan-infinitecanvas.static.hf.space/index.html) |
 | InfinityFree | [alperugurcan.freedev.app](https://alperugurcan.freedev.app/) |
 | Linktree | [linktr.ee/alperugurcan](https://linktr.ee/alperugurcan) |
