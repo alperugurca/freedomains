@@ -78,6 +78,7 @@ Last reviewed: October 12, 2026.
 | alwaysdata | [alperugurcan.alwaysdata.net](https://alperugurcan.alwaysdata.net/) |
 | Bear Blog | [alperugurcan.bearblog.dev](https://alperugurcan.bearblog.dev/) |
 | Byet Host | [alperugurcan.byethost5.com](https://alperugurcan.byethost5.com/) |
+| Canva | [alperugurcan.my.canva.site](https://alperugurcan.my.canva.site/) |
 | Carrd | [alperugurcan.carrd.co](https://alperugurcan.carrd.co) |
 | Cloudflare Pages | [alperugurcan.pages.dev](https://alperugurcan.pages.dev) |
 | Firebase Hosting | [alper-ugurcan.web.app](https://alper-ugurcan.web.app) |
