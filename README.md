@@ -100,6 +100,7 @@ Last reviewed: October 12, 2026.
 | mmm.page | [alperugurcan.mmm.page](https://alperugurcan.mmm.page/) |
 | Neocities | [alperugurcan.neocities.org](https://alperugurcan.neocities.org) |
 | Netlify | [coffeeworkshop.netlify.app](https://coffeeworkshop.netlify.app) |
+| Notion Sites | [alperugurcan.notion.site/About](https://alperugurcan.notion.site/About-3f7328dcd9f480fd9520f6240206d38a) |
 | PythonAnywhere | [alperugurcan.pythonanywhere.com](https://alperugurcan.pythonanywhere.com) |
 | Render | [alperugurcan.onrender.com](https://alperugurcan.onrender.com) |
 | Surge | [alperugurcan.surge.sh](https://alperugurcan.surge.sh) |
