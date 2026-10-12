@@ -103,6 +103,7 @@ Last reviewed: October 12, 2026.
 | Notion Sites | [alperugurcan.notion.site/About](https://alperugurcan.notion.site/About-3f7328dcd9f480fd9520f6240206d38a) |
 | PythonAnywhere | [alperugurcan.pythonanywhere.com](https://alperugurcan.pythonanywhere.com) |
 | Render | [alperugurcan.onrender.com](https://alperugurcan.onrender.com) |
+| Streamlit Community Cloud | [alperugurcan.streamlit.app](https://alperugurcan.streamlit.app/) |
 | Surge | [alperugurcan.surge.sh](https://alperugurcan.surge.sh) |
 | Tiiny Host | [randomimage.tiiny.site](https://randomimage.tiiny.site) |
 | Vercel | [alperugurcan.vercel.app](https://alperugurcan.vercel.app) |
