@@ -94,6 +94,7 @@ Last reviewed: October 12, 2026.
 | HelioHost | [alperugurcan3.helioho.st](https://alperugurcan3.helioho.st/) |
 | HelioHost | [alperugurcan4.helioho.st](https://alperugurcan4.helioho.st/) |
 | HelioHost | [alperugurcan5.helioho.st](https://alperugurcan5.helioho.st/) |
+| Hugging Face Static Spaces | [alperugurcan-infinitecanvas.static.hf.space/index.html](https://alperugurcan-infinitecanvas.static.hf.space/index.html) |
 | Linktree | [linktr.ee/alperugurcan](https://linktr.ee/alperugurcan) |
 | mmm.page | [mmm.page/alperugurcan](https://mmm.page/alperugurcan) |
 | Neocities | [alperugurcan.neocities.org](https://alperugurcan.neocities.org) |
