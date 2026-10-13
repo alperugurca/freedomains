@@ -42,6 +42,7 @@ Last updated: October 13, 2026.
 | [Hugging Face Static Spaces](https://huggingface.co/docs/hub/en/spaces-overview) | `space-subdomain.hf.space` |
 | [InfinityFree](https://www.infinityfree.com/) | `name.infinityfree.io` (multiple options) |
 | [Linktree](https://linktr.ee/s/pricing) | `linktr.ee/name` |
+| [Mintlify](https://www.mintlify.com/library/mintlify-starter-plan) | `name.mintlify.site` |
 | [mmm.page](https://mmm.page/) | `name.mmm.page` |
 | [Neocities](https://neocities.org/) | `name.neocities.org` |
 | [Netlify](https://docs.netlify.com/manage/domains/domains-fundamentals/understand-domains/) | `project.netlify.app` |
@@ -119,6 +120,7 @@ Last updated: October 13, 2026.
 | Hugging Face Static Spaces | [alperugurcan-infinitecanvas.static.hf.space/index.html](https://alperugurcan-infinitecanvas.static.hf.space/index.html) |
 | InfinityFree | [alperugurcan.freedev.app](https://alperugurcan.freedev.app/) |
 | Linktree | [linktr.ee/alperugurcan](https://linktr.ee/alperugurcan) |
+| Mintlify | [alperugurcan.mintlify.site](https://alperugurcan.mintlify.site) |
 | mmm.page | [alperugurcan.mmm.page](https://alperugurcan.mmm.page/) |
 | Neocities | [alperugurcan.neocities.org](https://alperugurcan.neocities.org) |
 | Netlify | [alperugurcan.netlify.app](https://alperugurcan.netlify.app/) |
