@@ -94,7 +94,7 @@ Last updated: October 13, 2026.
 | Anvil | [worthy-different-round.anvil.app](https://worthy-different-round.anvil.app/) |
 | Bear Blog | [alperugurcan.bearblog.dev](https://alperugurcan.bearblog.dev/) |
 | Blogger | [alperugurcan.blogspot.com](https://alperugurcan.blogspot.com/) |
-| Bolt Hosting | [experiment81734681932047.bolt.host](https://experiment81734681932047.bolt.host) |
+| Bolt Hosting | [alperugurcan.bolt.host](https://alperugurcan.bolt.host) |
 | Byet Host | [alperugurcan.byethost5.com](https://alperugurcan.byethost5.com/) |
 | Canva | [alperugurcan.my.canva.site](https://alperugurcan.my.canva.site/) |
 | Carrd | [alperugurcan.carrd.co](https://alperugurcan.carrd.co) |
