@@ -17,6 +17,7 @@ Last updated: October 13, 2026.
 | --- | --- |
 | [AeonFree](https://aeonfree.com/) | `name.iceiy.com` (multiple options) |
 | [alwaysdata](https://www.alwaysdata.com/en/offers/) | `name.alwaysdata.net` |
+| [Anvil](https://anvil.works/docs/deployment/quickstart.html) | `name.anvil.app` |
 | [Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/custom-domain) | `generated-name.2.azurestaticapps.net` |
 | [Bear Blog](https://bearblog.dev/) | `name.bearblog.dev` |
 | [Blogger](https://support.google.com/blogger/answer/9691230?hl=en) | `name.blogspot.com` |
@@ -90,6 +91,7 @@ Last updated: October 13, 2026.
 | AeonFree (2) | [alperugurcan.iceiy.com](https://alperugurcan.iceiy.com) |
 | AeonFree (3) | [alperugurcan.zya.me](https://alperugurcan.zya.me) |
 | alwaysdata | [alperugurcan.alwaysdata.net](https://alperugurcan.alwaysdata.net/) |
+| Anvil | [worthy-different-round.anvil.app](https://worthy-different-round.anvil.app/) |
 | Bear Blog | [alperugurcan.bearblog.dev](https://alperugurcan.bearblog.dev/) |
 | Blogger | [alperugurcan.blogspot.com](https://alperugurcan.blogspot.com/) |
 | Bolt Hosting | [experiment81734681932047.bolt.host](https://experiment81734681932047.bolt.host) |
