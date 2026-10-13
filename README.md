@@ -2,7 +2,7 @@
 
 Free subdomains and website addresses. Free plans may have usage limits.
 
-Last reviewed: October 12, 2026.
+Last updated: October 13, 2026.
 
 ## Contents
 
@@ -27,12 +27,13 @@ Last reviewed: October 12, 2026.
 | [Cloudflare Workers](https://developers.cloudflare.com/workers/configuration/routing/workers-dev/) | `worker.account.workers.dev` |
 | [Codeberg Pages](https://docs.codeberg.org/codeberg-pages/) | `username.codeberg.page` (multiple options) |
 | [Deno Deploy](https://docs.deno.com/deploy/reference/domains/) | `app.organization.deno.net` |
-| [Firebase Hosting](https://firebase.google.com/docs/hosting) | `project.web.app` (multiple options) |
+| [Framer](https://www.framer.com/help/articles/how-to-connect-a-custom-domain/) | `name.framer.website` (multiple options) |
 | [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages) | `username.github.io` |
 | [GitLab Pages](https://docs.gitlab.com/user/project/pages/getting_started_part_one/) | `username.gitlab.io` |
 | [Google Sites](https://support.google.com/sites/answer/6372880?hl=en) | `sites.google.com/view/name` |
 | [Gravatar](https://gravatar.com/) | `gravatar.com/name` |
 | [guns.lol](https://guns.lol/pricing) | `guns.lol/name` |
+| [Hashnode](https://hashnode.com/terms) | `name.hashnode.dev` |
 | [HelioHost](https://heliohost.org/) | `name.helioho.st` (multiple options) |
 | [Hugging Face Static Spaces](https://huggingface.co/docs/hub/en/spaces-overview) | `space-subdomain.hf.space` |
 | [InfinityFree](https://www.infinityfree.com/) | `name.infinityfree.io` (multiple options) |
@@ -44,6 +45,7 @@ Last reviewed: October 12, 2026.
 | [own.page](https://own.page/) | `own.page/name` |
 | [PythonAnywhere](https://www.pythonanywhere.com/pricing/) | `username.pythonanywhere.com` (multiple options) |
 | [Render](https://render.com/docs/static-sites) | `project.onrender.com` |
+| [Replit](https://docs.replit.com/billing/plans/starter-plan) | `project.replit.app` (30-day free publishing) |
 | [Streamlit Community Cloud](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy) | `name.streamlit.app` |
 | [Surge](https://surge.sh/) | `project.surge.sh` |
 | [Tiiny Host](https://tiiny.host/pricing) | `name.tiiny.site` |
@@ -63,6 +65,7 @@ Last reviewed: October 12, 2026.
 | [is-a.dev](https://docs.is-a.dev/quickstart/) | `name.is-a.dev` |
 | [is-cool-me](https://dash.is-pro.dev/) | `name.is-pro.dev` (multiple options) |
 | [JS.ORG](https://github.com/js-org/js.org) | `name.js.org` |
+| [NIC.UA (PP.UA)](https://nic.ua/en/domains/.pp.ua) | `name.pp.ua` |
 | [thedev.id](https://github.com/thedev-id/thedev.id) | `name.thedev.id` |
 
 ## Free dynamic DNS
@@ -90,13 +93,14 @@ Last reviewed: October 12, 2026.
 | Cloudflare Pages | [alperugurcan.pages.dev](https://alperugurcan.pages.dev) |
 | Codeberg Pages | [alperugurcan.codeberg.page](https://alperugurcan.codeberg.page/) |
 | Deno Deploy | [alperugurcan.alperugurcan.deno.net](https://alperugurcan.alperugurcan.deno.net/) |
-| Firebase Hosting | [alper-ugurcan.web.app](https://alper-ugurcan.web.app) |
+| Framer | [everydaynormalguy2.framer.website](https://everydaynormalguy2.framer.website/) |
 | GitHub Pages (1) | [alperugurca.github.io](https://alperugurca.github.io/) |
 | GitHub Pages (2) | [alperugurca.github.io/freedomains](https://alperugurca.github.io/freedomains/) |
 | GitLab Pages | [alperugurcan.gitlab.io/alperugurcan](https://alperugurcan.gitlab.io/alperugurcan) |
 | Google Sites | [sites.google.com/view/theyarethesamepicture](https://sites.google.com/view/theyarethesamepicture) |
 | Gravatar | [gravatar.com/alperugurcan](https://gravatar.com/alperugurcan) |
 | guns.lol | [guns.lol/alperugurcan](https://guns.lol/alperugurcan) |
+| Hashnode | [alperugurcan.hashnode.dev](https://alperugurcan.hashnode.dev/) |
 | HelioHost (1) | [alperugurcan.helioho.st](https://alperugurcan.helioho.st/) |
 | HelioHost (2) | [alperugurcan2.helioho.st](https://alperugurcan2.helioho.st/) |
 | HelioHost (3) | [alperugurcan3.helioho.st](https://alperugurcan3.helioho.st/) |
@@ -108,9 +112,11 @@ Last reviewed: October 12, 2026.
 | mmm.page | [alperugurcan.mmm.page](https://alperugurcan.mmm.page/) |
 | Neocities | [alperugurcan.neocities.org](https://alperugurcan.neocities.org) |
 | Netlify | [coffeeworkshop.netlify.app](https://coffeeworkshop.netlify.app) |
+| NIC.UA (PP.UA) | [alperugurcan.pp.ua](https://alperugurcan.pp.ua/) |
 | Notion Sites | [alperugurcan.notion.site/About](https://alperugurcan.notion.site/About-3f7328dcd9f480fd9520f6240206d38a) |
 | PythonAnywhere | [alperugurcan.pythonanywhere.com](https://alperugurcan.pythonanywhere.com) |
 | Render | [alperugurcan.onrender.com](https://alperugurcan.onrender.com) |
+| Replit | [meaningless--alperugurcan.replit.app](https://meaningless--alperugurcan.replit.app) |
 | Streamlit Community Cloud | [alperugurcan.streamlit.app](https://alperugurcan.streamlit.app/) |
 | Surge | [alperugurcan.surge.sh](https://alperugurcan.surge.sh) |
 | Tiiny Host | [randomimage.tiiny.site](https://randomimage.tiiny.site) |
