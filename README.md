@@ -28,6 +28,7 @@ Last updated: October 13, 2026.
 | [Codeberg Pages](https://docs.codeberg.org/codeberg-pages/) | `username.codeberg.page` (multiple options) |
 | [Deno Deploy](https://docs.deno.com/deploy/reference/domains/) | `app.organization.deno.net` |
 | [Framer](https://www.framer.com/help/articles/how-to-connect-a-custom-domain/) | `name.framer.website` (multiple options) |
+| [GitBook](https://gitbook.com/docs/getting-started/quickstart) | `name.gitbook.io/site` |
 | [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages) | `username.github.io` |
 | [GitLab Pages](https://docs.gitlab.com/user/project/pages/getting_started_part_one/) | `username.gitlab.io` |
 | [Google Sites](https://support.google.com/sites/answer/6372880?hl=en) | `sites.google.com/view/name` |
@@ -94,6 +95,7 @@ Last updated: October 13, 2026.
 | Codeberg Pages | [alperugurcan.codeberg.page](https://alperugurcan.codeberg.page/) |
 | Deno Deploy | [alperugurcan.alperugurcan.deno.net](https://alperugurcan.alperugurcan.deno.net/) |
 | Framer | [everydaynormalguy2.framer.website](https://everydaynormalguy2.framer.website/) |
+| GitBook | [alperugurcan.gitbook.io/alperugurcan-docs](https://alperugurcan.gitbook.io/alperugurcan-docs) |
 | GitHub Pages (1) | [alperugurca.github.io](https://alperugurca.github.io/) |
 | GitHub Pages (2) | [alperugurca.github.io/freedomains](https://alperugurca.github.io/freedomains/) |
 | GitLab Pages | [alperugurcan.gitlab.io/alperugurcan](https://alperugurcan.gitlab.io/alperugurcan) |
