@@ -20,6 +20,7 @@ Last updated: October 13, 2026.
 | [Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/custom-domain) | `generated-name.2.azurestaticapps.net` |
 | [Bear Blog](https://bearblog.dev/) | `name.bearblog.dev` |
 | [Blogger](https://support.google.com/blogger/answer/9691230?hl=en) | `name.blogspot.com` |
+| [Bolt Hosting](https://support.bolt.new/building/intro-bolt) | `name.bolt.host` |
 | [Byet Host](https://byet.host/free-hosting) | `name.iblogger.org` (multiple options) |
 | [Canva](https://www.canva.com/website-builder/) | `name.my.canva.site` (multiple options) |
 | [Carrd](https://carrd.com/) | `name.carrd.co` |
@@ -89,6 +90,7 @@ Last updated: October 13, 2026.
 | alwaysdata | [alperugurcan.alwaysdata.net](https://alperugurcan.alwaysdata.net/) |
 | Bear Blog | [alperugurcan.bearblog.dev](https://alperugurcan.bearblog.dev/) |
 | Blogger | [alperugurcan.blogspot.com](https://alperugurcan.blogspot.com/) |
+| Bolt Hosting | [experiment81734681932047.bolt.host](https://experiment81734681932047.bolt.host) |
 | Byet Host | [alperugurcan.byethost5.com](https://alperugurcan.byethost5.com/) |
 | Canva | [alperugurcan.my.canva.site](https://alperugurcan.my.canva.site/) |
 | Carrd | [alperugurcan.carrd.co](https://alperugurcan.carrd.co) |
