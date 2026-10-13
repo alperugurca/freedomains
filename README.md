@@ -41,6 +41,7 @@ Last updated: October 13, 2026.
 | [HelioHost](https://heliohost.org/) | `name.helioho.st` (multiple options) |
 | [Hugging Face Static Spaces](https://huggingface.co/docs/hub/en/spaces-overview) | `space-subdomain.hf.space` |
 | [InfinityFree](https://www.infinityfree.com/) | `name.infinityfree.io` (multiple options) |
+| [Jimdo](https://www.jimdo.com/website/free/) | `name.jimdosite.com` (multiple options) |
 | [Linktree](https://linktr.ee/s/pricing) | `linktr.ee/name` |
 | [Lnk.Bio](https://lnk.bio/all-features) | `lnk.bio/name` |
 | [Medium](https://help.medium.com/hc/en-us/articles/225168028-Using-Medium) | `medium.com/@name` |
@@ -123,6 +124,7 @@ Last updated: October 13, 2026.
 | HelioHost (5) | [alperugurcan5.helioho.st](https://alperugurcan5.helioho.st/) |
 | Hugging Face Static Spaces | [alperugurcan-infinitecanvas.static.hf.space/index.html](https://alperugurcan-infinitecanvas.static.hf.space/index.html) |
 | InfinityFree | [alperugurcan.freedev.app](https://alperugurcan.freedev.app/) |
+| Jimdo | [alperugurcan.jimdosite.com](https://alperugurcan.jimdosite.com/) |
 | Linktree | [linktr.ee/alperugurcan](https://linktr.ee/alperugurcan) |
 | Lnk.Bio | [lnk.bio/alperugurcan](https://lnk.bio/alperugurcan) |
 | Medium | [medium.com/@alperugurcan](https://medium.com/@alperugurcan) |
