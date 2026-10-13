@@ -51,6 +51,7 @@ Last updated: October 13, 2026.
 | [Netlify](https://docs.netlify.com/manage/domains/domains-fundamentals/understand-domains/) | `project.netlify.app` |
 | [Notion Sites](https://www.notion.com/help/manage-your-notion-sites) | `name.notion.site/page-id` |
 | [own.page](https://own.page/) | `own.page/name` |
+| [ProFreeHost](https://profreehost.com/) | `name.liveblog365.com` (multiple options) |
 | [PythonAnywhere](https://www.pythonanywhere.com/pricing/) | `username.pythonanywhere.com` (multiple options) |
 | [Render](https://render.com/docs/static-sites) | `project.onrender.com` |
 | [Replit](https://docs.replit.com/billing/plans/starter-plan) | `project.replit.app` |
@@ -135,6 +136,7 @@ Last updated: October 13, 2026.
 | Netlify | [alperugurcan.netlify.app](https://alperugurcan.netlify.app/) |
 | NIC.UA (PP.UA) | [alperugurcan.pp.ua](https://alperugurcan.pp.ua/) |
 | Notion Sites | [alperugurcan.notion.site/About](https://alperugurcan.notion.site/About-3f7328dcd9f480fd9520f6240206d38a) |
+| ProFreeHost | [alperugurcan.liveblog365.com](https://alperugurcan.liveblog365.com/) |
 | PythonAnywhere | [alperugurcan.pythonanywhere.com](https://alperugurcan.pythonanywhere.com) |
 | Render | [alperugurcan.onrender.com](https://alperugurcan.onrender.com) |
 | Replit | [meaningless--alperugurcan.replit.app](https://meaningless--alperugurcan.replit.app) |
