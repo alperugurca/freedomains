@@ -28,6 +28,7 @@ Last updated: October 13, 2026.
 | [Cloudflare Workers](https://developers.cloudflare.com/workers/configuration/routing/workers-dev/) | `worker.account.workers.dev` |
 | [Codeberg Pages](https://docs.codeberg.org/codeberg-pages/) | `username.codeberg.page` (multiple options) |
 | [Deno Deploy](https://docs.deno.com/deploy/reference/domains/) | `app.organization.deno.net` |
+| [DOM Cloud](https://domcloud.co/docs/intro/free-plan) | `name.mnz.dom.my.id` |
 | [Framer](https://www.framer.com/help/articles/how-to-connect-a-custom-domain/) | `name.framer.website` (multiple options) |
 | [GitBook](https://gitbook.com/docs/getting-started/quickstart) | `name.gitbook.io/site` |
 | [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages) | `username.github.io` |
@@ -98,6 +99,7 @@ Last updated: October 13, 2026.
 | Cloudflare Pages | [alperugurcan.pages.dev](https://alperugurcan.pages.dev) |
 | Codeberg Pages | [alperugurcan.codeberg.page](https://alperugurcan.codeberg.page/) |
 | Deno Deploy | [alperugurcan.alperugurcan.deno.net](https://alperugurcan.alperugurcan.deno.net/) |
+| DOM Cloud | [alperugurcan.mnz.dom.my.id](https://alperugurcan.mnz.dom.my.id/) |
 | Framer | [everydaynormalguy2.framer.website](https://everydaynormalguy2.framer.website/) |
 | GitBook | [alperugurcan.gitbook.io/docs](https://alperugurcan.gitbook.io/docs) |
 | GitHub Pages (1) | [alperugurca.github.io](https://alperugurca.github.io/) |
@@ -117,8 +119,7 @@ Last updated: October 13, 2026.
 | Linktree | [linktr.ee/alperugurcan](https://linktr.ee/alperugurcan) |
 | mmm.page | [alperugurcan.mmm.page](https://alperugurcan.mmm.page/) |
 | Neocities | [alperugurcan.neocities.org](https://alperugurcan.neocities.org) |
-| Netlify (1) | [coffeeworkshop.netlify.app](https://coffeeworkshop.netlify.app) |
-| Netlify (2) | [alperugurcan.netlify.app](https://alperugurcan.netlify.app/) |
+| Netlify | [alperugurcan.netlify.app](https://alperugurcan.netlify.app/) |
 | NIC.UA (PP.UA) | [alperugurcan.pp.ua](https://alperugurcan.pp.ua/) |
 | Notion Sites | [alperugurcan.notion.site/About](https://alperugurcan.notion.site/About-3f7328dcd9f480fd9520f6240206d38a) |
 | PythonAnywhere | [alperugurcan.pythonanywhere.com](https://alperugurcan.pythonanywhere.com) |
