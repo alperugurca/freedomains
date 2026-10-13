@@ -56,6 +56,7 @@ Last updated: October 13, 2026.
 | [Streamlit Community Cloud](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy) | `name.streamlit.app` |
 | [Substack](https://substack.com/get-started) | `substack.com/@name` (multiple options) |
 | [Surge](https://surge.sh/) | `project.surge.sh` |
+| [Tilda](https://help.tilda.cc/address) | `name.tilda.ws` |
 | [Tiiny Host](https://tiiny.host/pricing) | `name.tiiny.site` |
 | [Tumblr](https://help.tumblr.com/knowledge-base/getting-started-on-tumblr/) | `tumblr.com/name` (multiple options) |
 | [Val Town](https://docs.val.town/vals/http/custom-subdomains) | `name.val.run` |
@@ -137,6 +138,7 @@ Last updated: October 13, 2026.
 | Streamlit Community Cloud | [alperugurcan.streamlit.app](https://alperugurcan.streamlit.app/) |
 | Substack | [substack.com/@alperugurcan](https://substack.com/@alperugurcan) |
 | Surge | [alperugurcan.surge.sh](https://alperugurcan.surge.sh) |
+| Tilda | [alperugurcan.tilda.ws](https://alperugurcan.tilda.ws/) |
 | Tiiny Host | [randomimage.tiiny.site](https://randomimage.tiiny.site) |
 | Tumblr | [tumblr.com/alperugurcan](https://www.tumblr.com/alperugurcan) |
 | Val Town | [alperugurcan.val.run](https://alperugurcan.val.run/) |
