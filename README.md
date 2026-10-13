@@ -52,6 +52,7 @@ Last updated: October 13, 2026.
 | [Substack](https://substack.com/get-started) | `substack.com/@name` (multiple options) |
 | [Surge](https://surge.sh/) | `project.surge.sh` |
 | [Tiiny Host](https://tiiny.host/pricing) | `name.tiiny.site` |
+| [Val Town](https://docs.val.town/vals/http/custom-subdomains) | `name.val.run` |
 | [Vercel](https://vercel.com/docs/domains/working-with-domains) | `project.vercel.app` |
 | [Versoly](https://versoly.com/pricing) | `name.versoly.page` |
 | [Webflow](https://webflow.com/pricing) | `name.webflow.io` |
@@ -126,6 +127,7 @@ Last updated: October 13, 2026.
 | Substack | [substack.com/@alperugurcan](https://substack.com/@alperugurcan) |
 | Surge | [alperugurcan.surge.sh](https://alperugurcan.surge.sh) |
 | Tiiny Host | [randomimage.tiiny.site](https://randomimage.tiiny.site) |
+| Val Town | [factbook.val.run](https://factbook.val.run/) |
 | Vercel | [alperugurcan.vercel.app](https://alperugurcan.vercel.app) |
 | Versoly | [alperugurcan.versoly.page](https://alperugurcan.versoly.page/) |
 | Webflow | [alperugurcan.webflow.io](https://alperugurcan.webflow.io/) |
