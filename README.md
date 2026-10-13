@@ -95,7 +95,7 @@ Last updated: October 13, 2026.
 | Codeberg Pages | [alperugurcan.codeberg.page](https://alperugurcan.codeberg.page/) |
 | Deno Deploy | [alperugurcan.alperugurcan.deno.net](https://alperugurcan.alperugurcan.deno.net/) |
 | Framer | [everydaynormalguy2.framer.website](https://everydaynormalguy2.framer.website/) |
-| GitBook | [alperugurcan.gitbook.io/alperugurcan-docs](https://alperugurcan.gitbook.io/alperugurcan-docs) |
+| GitBook | [alperugurcan.gitbook.io/docs](https://alperugurcan.gitbook.io/docs) |
 | GitHub Pages (1) | [alperugurca.github.io](https://alperugurca.github.io/) |
 | GitHub Pages (2) | [alperugurca.github.io/freedomains](https://alperugurca.github.io/freedomains/) |
 | GitLab Pages | [alperugurcan.gitlab.io/alperugurcan](https://alperugurcan.gitlab.io/alperugurcan) |
