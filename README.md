@@ -45,7 +45,7 @@ Last updated: October 13, 2026.
 | [own.page](https://own.page/) | `own.page/name` |
 | [PythonAnywhere](https://www.pythonanywhere.com/pricing/) | `username.pythonanywhere.com` (multiple options) |
 | [Render](https://render.com/docs/static-sites) | `project.onrender.com` |
-| [Replit](https://docs.replit.com/billing/plans/starter-plan) | `project.replit.app` (30-day free publishing) |
+| [Replit](https://docs.replit.com/billing/plans/starter-plan) | `project.replit.app` |
 | [Streamlit Community Cloud](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy) | `name.streamlit.app` |
 | [Surge](https://surge.sh/) | `project.surge.sh` |
 | [Tiiny Host](https://tiiny.host/pricing) | `name.tiiny.site` |
