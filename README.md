@@ -127,7 +127,7 @@ Last updated: October 13, 2026.
 | Substack | [substack.com/@alperugurcan](https://substack.com/@alperugurcan) |
 | Surge | [alperugurcan.surge.sh](https://alperugurcan.surge.sh) |
 | Tiiny Host | [randomimage.tiiny.site](https://randomimage.tiiny.site) |
-| Val Town | [factbook.val.run](https://factbook.val.run/) |
+| Val Town | [alperugurcan.val.run](https://alperugurcan.val.run/) |
 | Vercel | [alperugurcan.vercel.app](https://alperugurcan.vercel.app) |
 | Versoly | [alperugurcan.versoly.page](https://alperugurcan.versoly.page/) |
 | Webflow | [alperugurcan.webflow.io](https://alperugurcan.webflow.io/) |
