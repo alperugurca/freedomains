@@ -117,7 +117,8 @@ Last updated: October 13, 2026.
 | Linktree | [linktr.ee/alperugurcan](https://linktr.ee/alperugurcan) |
 | mmm.page | [alperugurcan.mmm.page](https://alperugurcan.mmm.page/) |
 | Neocities | [alperugurcan.neocities.org](https://alperugurcan.neocities.org) |
-| Netlify | [coffeeworkshop.netlify.app](https://coffeeworkshop.netlify.app) |
+| Netlify (1) | [coffeeworkshop.netlify.app](https://coffeeworkshop.netlify.app) |
+| Netlify (2) | [alperugurcan.netlify.app](https://alperugurcan.netlify.app/) |
 | NIC.UA (PP.UA) | [alperugurcan.pp.ua](https://alperugurcan.pp.ua/) |
 | Notion Sites | [alperugurcan.notion.site/About](https://alperugurcan.notion.site/About-3f7328dcd9f480fd9520f6240206d38a) |
 | PythonAnywhere | [alperugurcan.pythonanywhere.com](https://alperugurcan.pythonanywhere.com) |
