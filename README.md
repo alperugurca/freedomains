@@ -48,6 +48,7 @@ Last updated: October 13, 2026.
 | [Render](https://render.com/docs/static-sites) | `project.onrender.com` |
 | [Replit](https://docs.replit.com/billing/plans/starter-plan) | `project.replit.app` |
 | [Streamlit Community Cloud](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy) | `name.streamlit.app` |
+| [Substack](https://substack.com/get-started) | `substack.com/@name` (multiple options) |
 | [Surge](https://surge.sh/) | `project.surge.sh` |
 | [Tiiny Host](https://tiiny.host/pricing) | `name.tiiny.site` |
 | [Vercel](https://vercel.com/docs/domains/working-with-domains) | `project.vercel.app` |
@@ -98,7 +99,7 @@ Last updated: October 13, 2026.
 | GitBook | [alperugurcan.gitbook.io/docs](https://alperugurcan.gitbook.io/docs) |
 | GitHub Pages (1) | [alperugurca.github.io](https://alperugurca.github.io/) |
 | GitHub Pages (2) | [alperugurca.github.io/freedomains](https://alperugurca.github.io/freedomains/) |
-| GitLab Pages | [alperugurcan.gitlab.io/alperugurcan](https://alperugurcan.gitlab.io/alperugurcan) |
+| GitLab Pages | [alperugurcan.gitlab.io](https://alperugurcan.gitlab.io/) |
 | Google Sites | [sites.google.com/view/theyarethesamepicture](https://sites.google.com/view/theyarethesamepicture) |
 | Gravatar | [gravatar.com/alperugurcan](https://gravatar.com/alperugurcan) |
 | guns.lol | [guns.lol/alperugurcan](https://guns.lol/alperugurcan) |
@@ -120,6 +121,7 @@ Last updated: October 13, 2026.
 | Render | [alperugurcan.onrender.com](https://alperugurcan.onrender.com) |
 | Replit | [meaningless--alperugurcan.replit.app](https://meaningless--alperugurcan.replit.app) |
 | Streamlit Community Cloud | [alperugurcan.streamlit.app](https://alperugurcan.streamlit.app/) |
+| Substack | [substack.com/@alperugurcan](https://substack.com/@alperugurcan) |
 | Surge | [alperugurcan.surge.sh](https://alperugurcan.surge.sh) |
 | Tiiny Host | [randomimage.tiiny.site](https://randomimage.tiiny.site) |
 | Vercel | [alperugurcan.vercel.app](https://alperugurcan.vercel.app) |
