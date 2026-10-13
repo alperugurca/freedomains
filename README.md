@@ -50,6 +50,7 @@ Last updated: October 13, 2026.
 | [PythonAnywhere](https://www.pythonanywhere.com/pricing/) | `username.pythonanywhere.com` (multiple options) |
 | [Render](https://render.com/docs/static-sites) | `project.onrender.com` |
 | [Replit](https://docs.replit.com/billing/plans/starter-plan) | `project.replit.app` |
+| [Static.app](https://static.app/) | `name.static.domains` (free trial) |
 | [Streamlit Community Cloud](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy) | `name.streamlit.app` |
 | [Substack](https://substack.com/get-started) | `substack.com/@name` (multiple options) |
 | [Surge](https://surge.sh/) | `project.surge.sh` |
@@ -127,6 +128,7 @@ Last updated: October 13, 2026.
 | PythonAnywhere | [alperugurcan.pythonanywhere.com](https://alperugurcan.pythonanywhere.com) |
 | Render | [alperugurcan.onrender.com](https://alperugurcan.onrender.com) |
 | Replit | [meaningless--alperugurcan.replit.app](https://meaningless--alperugurcan.replit.app) |
+| Static.app | [alperugurcan.static.domains](https://alperugurcan.static.domains/) |
 | Streamlit Community Cloud | [alperugurcan.streamlit.app](https://alperugurcan.streamlit.app/) |
 | Substack | [substack.com/@alperugurcan](https://substack.com/@alperugurcan) |
 | Surge | [alperugurcan.surge.sh](https://alperugurcan.surge.sh) |
