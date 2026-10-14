@@ -130,7 +130,7 @@ Last updated: October 14, 2026.
 | Jimdo | [alperugurcan.jimdosite.com](https://alperugurcan.jimdosite.com/) |
 | Linktree | [linktr.ee/alperugurcan](https://linktr.ee/alperugurcan) |
 | Lnk.Bio | [lnk.bio/alperugurcan](https://lnk.bio/alperugurcan) |
-| Lovable | [sliding-motivation.lovable.app](https://sliding-motivation.lovable.app/) |
+| Lovable | [alperugurcan.lovable.app](https://alperugurcan.lovable.app/) |
 | Medium | [medium.com/@alperugurcan](https://medium.com/@alperugurcan) |
 | Mintlify | [alperugurcan.mintlify.site](https://alperugurcan.mintlify.site) |
 | mmm.page | [alperugurcan.mmm.page](https://alperugurcan.mmm.page/) |
