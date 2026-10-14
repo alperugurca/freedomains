@@ -115,7 +115,8 @@ Last updated: October 14, 2026.
 | GitBook | [alperugurcan.gitbook.io/docs](https://alperugurcan.gitbook.io/docs) |
 | GitHub Pages (1) | [alperugurca.github.io](https://alperugurca.github.io/) |
 | GitHub Pages (2) | [alperugurca.github.io/freedomains](https://alperugurca.github.io/freedomains/) |
-| GitLab Pages | [alperugurcan.gitlab.io](https://alperugurcan.gitlab.io/) |
+| GitLab Pages (1) | [alperugurcan.gitlab.io](https://alperugurcan.gitlab.io/) |
+| GitLab Pages (2) | [thechecklist-5f2180.gitlab.io](https://thechecklist-5f2180.gitlab.io/) |
 | Google Sites | [sites.google.com/view/theyarethesamepicture](https://sites.google.com/view/theyarethesamepicture) |
 | Gravatar | [gravatar.com/alperugurcan](https://gravatar.com/alperugurcan) |
 | guns.lol | [guns.lol/alperugurcan](https://guns.lol/alperugurcan) |
