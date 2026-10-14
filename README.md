@@ -44,6 +44,7 @@ Last updated: October 14, 2026.
 | [Jimdo](https://www.jimdo.com/website/free/) | `name.jimdosite.com` (multiple options) |
 | [Linktree](https://linktr.ee/s/pricing) | `linktr.ee/name` |
 | [Lnk.Bio](https://lnk.bio/all-features) | `lnk.bio/name` |
+| [Lovable](https://docs.lovable.dev/features/publish) | `name.lovable.app` |
 | [Medium](https://help.medium.com/hc/en-us/articles/225168028-Using-Medium) | `medium.com/@name` |
 | [Mintlify](https://www.mintlify.com/library/mintlify-starter-plan) | `name.mintlify.site` |
 | [mmm.page](https://mmm.page/) | `name.mmm.page` |
@@ -129,6 +130,7 @@ Last updated: October 14, 2026.
 | Jimdo | [alperugurcan.jimdosite.com](https://alperugurcan.jimdosite.com/) |
 | Linktree | [linktr.ee/alperugurcan](https://linktr.ee/alperugurcan) |
 | Lnk.Bio | [lnk.bio/alperugurcan](https://lnk.bio/alperugurcan) |
+| Lovable | [sliding-motivation.lovable.app](https://sliding-motivation.lovable.app/) |
 | Medium | [medium.com/@alperugurcan](https://medium.com/@alperugurcan) |
 | Mintlify | [alperugurcan.mintlify.site](https://alperugurcan.mintlify.site) |
 | mmm.page | [alperugurcan.mmm.page](https://alperugurcan.mmm.page/) |
