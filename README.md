@@ -2,7 +2,7 @@
 
 Free subdomains and website addresses. Free plans may have usage limits.
 
-Last updated: October 13, 2026.
+Last updated: October 14, 2026.
 
 ## Contents
 
@@ -139,7 +139,7 @@ Last updated: October 13, 2026.
 | ProFreeHost | [alperugurcan.liveblog365.com](https://alperugurcan.liveblog365.com/) |
 | PythonAnywhere | [alperugurcan.pythonanywhere.com](https://alperugurcan.pythonanywhere.com) |
 | Render | [alperugurcan.onrender.com](https://alperugurcan.onrender.com) |
-| Replit | [meaningless--alperugurcan.replit.app](https://meaningless--alperugurcan.replit.app) |
+| Replit | [alperugurcan--alperugurcan.replit.app](https://alperugurcan--alperugurcan.replit.app/) |
 | SITE123 | [6ace86ffa22c8.site123.me](https://6ace86ffa22c8.site123.me/) |
 | Streamlit Community Cloud | [alperugurcan.streamlit.app](https://alperugurcan.streamlit.app/) |
 | Substack | [substack.com/@alperugurcan](https://substack.com/@alperugurcan) |
