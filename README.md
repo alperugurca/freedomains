@@ -2,7 +2,7 @@
 
 Free subdomains and website addresses. Free plans may have usage limits.
 
-Last updated: October 14, 2026.
+Last updated: October 16, 2026.
 
 ## Contents
 
@@ -35,6 +35,7 @@ Last updated: October 14, 2026.
 | [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages) | `username.github.io` |
 | [GitLab Pages](https://docs.gitlab.com/user/project/pages/getting_started_part_one/) | `username.gitlab.io` |
 | [Google Sites](https://support.google.com/sites/answer/6372880?hl=en) | `sites.google.com/view/name` |
+| [GoogieHost](https://googiehost.com/freehosting) | `name.whf.bz` (multiple options) |
 | [Gravatar](https://gravatar.com/) | `gravatar.com/name` |
 | [guns.lol](https://guns.lol/pricing) | `guns.lol/name` |
 | [Hashnode](https://hashnode.com/terms) | `name.hashnode.dev` |
@@ -118,6 +119,7 @@ Last updated: October 14, 2026.
 | GitLab Pages (1) | [alperugurcan.gitlab.io](https://alperugurcan.gitlab.io/) |
 | GitLab Pages (2) | [thechecklist-5f2180.gitlab.io](https://thechecklist-5f2180.gitlab.io/) |
 | Google Sites | [sites.google.com/view/theyarethesamepicture](https://sites.google.com/view/theyarethesamepicture) |
+| GoogieHost | [alperugurcan.whf.bz](https://alperugurcan.whf.bz/) |
 | Gravatar | [gravatar.com/alperugurcan](https://gravatar.com/alperugurcan) |
 | guns.lol | [guns.lol/alperugurcan](https://guns.lol/alperugurcan) |
 | Hashnode | [alperugurcan.hashnode.dev](https://alperugurcan.hashnode.dev/) |
@@ -139,7 +141,8 @@ Last updated: October 14, 2026.
 | Netlify | [alperugurcan.netlify.app](https://alperugurcan.netlify.app/) |
 | NIC.UA (PP.UA) | [alperugurcan.pp.ua](https://alperugurcan.pp.ua/) |
 | Notion Sites | [alperugurcan.notion.site/About](https://alperugurcan.notion.site/About-3f7328dcd9f480fd9520f6240206d38a) |
-| ProFreeHost | [alperugurcan.liveblog365.com](https://alperugurcan.liveblog365.com/) |
+| ProFreeHost (1) | [alperugurcan.liveblog365.com](https://alperugurcan.liveblog365.com/) |
+| ProFreeHost (2) | [alperugurcan2.liveblog365.com](https://alperugurcan2.liveblog365.com/) |
 | PythonAnywhere | [alperugurcan.pythonanywhere.com](https://alperugurcan.pythonanywhere.com) |
 | Render | [alperugurcan.onrender.com](https://alperugurcan.onrender.com) |
 | Replit | [alperugurcan--alperugurcan.replit.app](https://alperugurcan--alperugurcan.replit.app/) |
