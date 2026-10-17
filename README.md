@@ -2,7 +2,7 @@
 
 Free subdomains and website addresses. Free plans may have usage limits.
 
-Last updated: October 16, 2026.
+Last updated: October 17, 2026.
 
 ## Contents
 
@@ -111,6 +111,8 @@ Last updated: October 16, 2026.
 | Cloudflare Pages | [alperugurcan.pages.dev](https://alperugurcan.pages.dev) |
 | Codeberg Pages | [alperugurcan.codeberg.page](https://alperugurcan.codeberg.page/) |
 | Deno Deploy | [alperugurcan.alperugurcan.deno.net](https://alperugurcan.alperugurcan.deno.net/) |
+| DigitalPlat (1) | [alperugurcan.dpdns.org](https://alperugurcan.dpdns.org/) |
+| DigitalPlat (2) | [alperugurcan.qzz.io](https://alperugurcan.qzz.io/) |
 | DOM Cloud | [alperugurcan.mnz.dom.my.id](https://alperugurcan.mnz.dom.my.id/) |
 | Framer | [alperugurcan.framer.website](https://alperugurcan.framer.website/) |
 | GitBook | [alperugurcan.gitbook.io/docs](https://alperugurcan.gitbook.io/docs) |
@@ -159,3 +161,14 @@ Last updated: October 16, 2026.
 | Webflow | [alperugurcan.webflow.io](https://alperugurcan.webflow.io/) |
 | Wix | [alperugurcan.wixsite.com/alperugurcan](https://alperugurcan.wixsite.com/alperugurcan) |
 | WordPress.com | [alperugurcan.wordpress.com](https://alperugurcan.wordpress.com/) |
+
+<details>
+<summary>My domains</summary>
+
+- [aeai.com.tr](https://aeai.com.tr/)
+- [alperugurcan.com](https://alperugurcan.com/)
+- [alperugurcan.com.tr](https://alperugurcan.com.tr/)
+- [alperugurcan.info](https://alperugurcan.info/)
+- [alperugurcan.online](https://alperugurcan.online/)
+
+</details>
