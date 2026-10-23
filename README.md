@@ -48,7 +48,8 @@ Last updated: October 23, 2026.
 | [Lovable](https://docs.lovable.dev/features/publish) | `name.lovable.app` |
 | [Medium](https://help.medium.com/hc/en-us/articles/225168028-Using-Medium) | `medium.com/@name` |
 | [Mintlify](https://www.mintlify.com/library/mintlify-starter-plan) | `name.mintlify.site` |
-| [ModelScope Studios](https://modelscope.cn/studios_beta) | `username-project.ms.show` |
+| [ModelScope.ai](https://modelscope.ai/studios/) | `username-project.ms.fun` |
+| [ModelScope.cn](https://modelscope.cn/studios_beta) | `username-project.ms.show` |
 | [mmm.page](https://mmm.page/) | `name.mmm.page` |
 | [Neocities](https://neocities.org/) | `name.neocities.org` |
 | [Netlify](https://docs.netlify.com/manage/domains/domains-fundamentals/understand-domains/) | `project.netlify.app` |
@@ -140,7 +141,8 @@ Last updated: October 23, 2026.
 | Lovable | [alperugurcan.lovable.app](https://alperugurcan.lovable.app/) |
 | Medium | [medium.com/@alperugurcan](https://medium.com/@alperugurcan) |
 | Mintlify | [alperugurcan.mintlify.site](https://alperugurcan.mintlify.site) |
-| ModelScope Studios | [alperugurcan-alperugurcan.ms.show](https://alperugurcan-alperugurcan.ms.show) |
+| ModelScope.ai | [alperugurcan-alperugurcan.ms.fun](https://alperugurcan-alperugurcan.ms.fun/) |
+| ModelScope.cn | [alperugurcan-alperugurcan.ms.show](https://alperugurcan-alperugurcan.ms.show/) |
 | mmm.page | [alperugurcan.mmm.page](https://alperugurcan.mmm.page/) |
 | Neocities | [alperugurcan.neocities.org](https://alperugurcan.neocities.org) |
 | Netlify | [alperugurcan.netlify.app](https://alperugurcan.netlify.app/) |
