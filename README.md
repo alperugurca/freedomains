@@ -2,7 +2,7 @@
 
 Free subdomains and website addresses. Free plans may have usage limits.
 
-Last updated: October 23, 2026.
+Last updated: October 29, 2026.
 
 ## Contents
 
@@ -31,6 +31,7 @@ Last updated: October 23, 2026.
 | [Deno Deploy](https://docs.deno.com/deploy/reference/domains/) | `app.organization.deno.net` |
 | [DOM Cloud](https://domcloud.co/docs/intro/free-plan) | `name.mnz.dom.my.id` |
 | [Framer](https://www.framer.com/help/articles/how-to-connect-a-custom-domain/) | `name.framer.website` (multiple options) |
+| [FranzLab](https://0hi.me/) | `name.0hi.me` |
 | [GitBook](https://gitbook.com/docs/getting-started/quickstart) | `name.gitbook.io/site` |
 | [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages) | `username.github.io` |
 | [GitLab Pages](https://docs.gitlab.com/user/project/pages/getting_started_part_one/) | `username.gitlab.io` |
@@ -118,6 +119,7 @@ Last updated: October 23, 2026.
 | DigitalPlat (2) | [alperugurcan.qzz.io](https://alperugurcan.qzz.io/) |
 | DOM Cloud | [alperugurcan.mnz.dom.my.id](https://alperugurcan.mnz.dom.my.id/) |
 | Framer | [alperugurcan.framer.website](https://alperugurcan.framer.website/) |
+| FranzLab | [alperugurcan.0hi.me](https://alperugurcan.0hi.me/) |
 | GitBook | [alperugurcan.gitbook.io/docs](https://alperugurcan.gitbook.io/docs) |
 | GitHub Pages (1) | [alperugurca.github.io](https://alperugurca.github.io/) |
 | GitHub Pages (2) | [alperugurca.github.io/freedomains](https://alperugurca.github.io/freedomains/) |
